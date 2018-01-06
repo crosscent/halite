@@ -3,3 +3,4 @@
 *.hlt
 __pycache__/
 *.pyc
+.idea/
